@@ -1,9 +1,9 @@
 ***PROjECT NAME***
 APPPLE VS ANDROID
 
-*** INSTALLATION ***
+***INSTALLATION***
 
-*** USAGE ***
+***USAGE***
 Midterm
 
 ***CONTRIBUTING***
@@ -13,11 +13,11 @@ Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature
 Submit a pull request :D
 
-*** HISTORY ***
+***HISTORY***
 
 ***CREDITS***
 Hansini 
 Juliana
 
-*** LICENSE ***
+***LICENSE***
 MIT
