@@ -3,10 +3,19 @@
 }
 
 p, li {
-    max-width: 600px;
+    max-width: 1440px;
 }
 
 img {
     /* max-width: 300px; */
     max-block-size: 300px;
+}
+
+section {
+    padding: 24px 16px 32px 16px;
+    border-bottom: 1px solid grey;
+}
+
+article {
+    padding: 12px 0px 12px 0px
 }
