@@ -6,7 +6,7 @@ p, li {
     max-width: 1440px;
 }
 
-img {
+.hd_img {
     /* max-width: 300px; */
     max-block-size: 300px;
 }
